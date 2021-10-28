@@ -90,4 +90,4 @@ client.on("ready", () => {
       .split(/ +/g);
     "classic" === t.shift().toLowerCase() && (await nitrogenerator(e, t));
   }),
-  client.login(config.token);
+  client.login(process.env.TOKEN);
