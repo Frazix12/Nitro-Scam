@@ -1,1 +1,1 @@
-[![Run on Repl.it](https://repl.it/badge/github/Frazix12/Nitro-Scam)](https://replit.com/@Frazix12/Nitro-Scam?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/Frazix12/Nitro-Scam)](https://replit.com/github/Frazix12/Nitro-Scam)
